@@ -34,3 +34,4 @@ build/
 
 # Project exclude paths
 /.webdrivercache/
+/cookie_dbs/
